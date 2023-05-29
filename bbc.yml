@@ -12,7 +12,7 @@ appConfig:
   layout: auto
   iconSize: medium
 pageInfo:
-  title: Demo Homelab
+  title: BBC Elephant Demo Homelab
   description: Live Demo of Dashy
   navLinks:
     - title: GitHub
